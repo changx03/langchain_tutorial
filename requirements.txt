@@ -1,0 +1,9 @@
+faiss-gpu
+huggingface_hub
+ipywidgets
+jupyterlab
+langchain
+openai
+python-dotenv
+tiktoken
+wikipedia
