@@ -7,3 +7,4 @@ openai
 python-dotenv
 tiktoken
 wikipedia
+pinecone-client

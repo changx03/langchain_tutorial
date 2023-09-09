@@ -20,8 +20,16 @@ Create a `.env` with the following environment variables and replace the `<...>`
 ```bash
 OPENAI_API_KEY=<OEPNAI_PRIVATE_KEY>
 HUGGINGFACEHUB_API_TOKEN=<HUGGINGFACEHUB_API_TOKEN>
+```
+
+For `LangChain2.ipynb`, in addition to the keys above you also need:
+
+```bash
+PINECONE_API_KEY=<PINECONE_API_KEY>
 
 ```
+
+I named the indexes for the Pinecone AI agent: `langchain-demo`.
 
 ## Notion Loader
 
